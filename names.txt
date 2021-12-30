@@ -1,0 +1,5 @@
+This is the first module of Node.js!!!
+ reading module
+Node.js is backend programing language.
+
+ This is syntax for reading the files.
